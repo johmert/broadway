@@ -33,7 +33,7 @@ p {
 #home,#banner {
   color: white;
   background-image: url(../building.png);
-  background-size: 100%;
+  background-size: cover;
 }
 
 #copyright {
